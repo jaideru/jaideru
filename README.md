@@ -7,6 +7,7 @@ Backend-focused Software Engineering student building robust APIs and data pipel
 
 Open to backend internship and junior backend roles.
 
+[![Website](https://img.shields.io/badge/Website-01C585?logo=rss&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/bigrand)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jaiderrojas/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaider@jaider.co)
